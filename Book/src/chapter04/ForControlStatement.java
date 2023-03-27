@@ -1,4 +1,4 @@
-package chapter4;
+package chapter04;
 /*
  *  날짜 : 2023/03/21
  *  이름 : 이민혁
